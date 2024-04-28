@@ -10,3 +10,6 @@ A very well fleshed-out project considering it was my first! Making the ending a
 - The platforms don't dissapear once you jump past them sufficiently, so don't fall!
 - Avoid touching the flying knives!
 - Saves high scores and purchased skins into a text file
+
+## Game Screenshots
+![Alt text](https://github.com/JakePG7/farmEscape/blob/main/Game%20Screenshots/Gameplay.png)
