@@ -12,4 +12,9 @@ A very well fleshed-out project considering it was my first! Making the ending a
 - Saves high scores and purchased skins into a text file
 
 ## Game Screenshots
-![Alt text](https://github.com/JakePG7/farmEscape/blob/main/Game%20Screenshots/Gameplay.png)
+<p float="left">
+<img src="https://github.com/JakePG7/farmEscape/blob/main/Game%20Screenshots/TitleScreen.png" width="200" />
+<img src="https://github.com/JakePG7/farmEscape/blob/main/Game%20Screenshots/ShopScreen.png" width="200" />
+<img src="https://github.com/JakePG7/farmEscape/blob/main/Game%20Screenshots/Gameplay.png" width="200" />
+</p>
+
